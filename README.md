@@ -1,0 +1,2 @@
+# foscoin-wallet
+foscoin wallet
